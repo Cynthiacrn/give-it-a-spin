@@ -1,6 +1,6 @@
 # Give it a spin : first project with Three.js
 
-[Go live](https://give-it-a-spin-ten.vercel.app/)
+[Discover the project :v:](https://give-it-a-spin-ten.vercel.app/)
 
 ## Dependencies
 
