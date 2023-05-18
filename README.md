@@ -1,5 +1,7 @@
 # Give it a spin : first project with Three.js
 
+[Go live](https://give-it-a-spin-ten.vercel.app/)
+
 ## Dependencies
 
 - Vite v4.1.1
@@ -19,4 +21,4 @@ In order to run this project, please follow the steps below.
 3. Type the following commands in the terminal:
 
      - `npm install` to install all of the dependencies
-     - `npm run dev` 
+     - `npm run dev`
